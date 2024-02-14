@@ -10,5 +10,8 @@ this repo will contain the good resources I used to learn SWE and ML
 
 ## Math <a name="math"></a>
 ---
+[Essence of linear algebra by 3blue1brown (video) 10/10 ]([https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+
+[Essence of calculus by 3blue1brown (video) 10/10](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
 
    
