@@ -4,11 +4,11 @@ this repo will contain the good resources I used to learn SWE and ML
 
 # Table of Contents
 
-1. [Math](#Math)
+1. [math](#Math)
 
 ---
 
-## Introduction <a name="Math"></a>
+## Math <a name="math"></a>
 ---
 
    
