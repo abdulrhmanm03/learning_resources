@@ -36,6 +36,7 @@ this repo will contain the good resources I used to learn SWE and ML
 ---
 ## fun Extra <a name="ex"></a>
 [NEURAL NETWORK IN MINECRAFT (video)](https://www.youtube.com/watch?v=7OdhtAiPfWY&t=428s)
+
 [Change of Variables and the Jacobian (video)](https://www.youtube.com/watch?v=hhFzJvaY__U)
 
 
