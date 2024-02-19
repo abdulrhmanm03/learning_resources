@@ -4,14 +4,20 @@ this repo will contain the good resources I used to learn SWE and ML
 
 # Table of Contents
 
-1. [Math](#math)
-2. [APIs](#api)
-3. [Deep learning](#nn)
-4. [Database/Data engineering](#db)
-5. [fun Extra](#ex)
+1. [Python](#py)
+2. [Math](#math)
+3. [APIs](#api)
+4. [Deep learning](#nn)
+5. [Database/Data engineering](#db)
+6. [fun Extra](#ex)
 
 ---
 
+## Python <a name="py"></a>
+
+[Pandas](https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS)
+
+---
 ## Math <a name="math"></a>
 
 [Essence of linear algebra by 3blue1brown (video)](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
