@@ -15,6 +15,8 @@ this repo will contain the good resources I used to learn SWE and ML
 
 ## Python <a name="py"></a>
 
+[Real Python (website)](https://realpython.com/)
+
 [Pandas (video)](https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS)
 
 [Grokking algorithms (book)](https://www.amazon.eg/-/en/Grokking-Algorithms-Illustrated-Programmers-Curious/dp/1617292230)
