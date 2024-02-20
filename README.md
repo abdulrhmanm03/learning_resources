@@ -44,7 +44,7 @@ this repo will contain the good resources I used to learn SWE and ML
 
 [Neural Networks from Scratch (video)](https://www.youtube.com/playlist?list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3)
 
-[The little book of deep learning](https://fleuret.org/public/lbdl.pdf)
+[The little book of deep learning (book)](https://fleuret.org/public/lbdl.pdf)
 
 [Neural Networks: Zero to Hero (video)](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
 
@@ -71,7 +71,7 @@ this repo will contain the good resources I used to learn SWE and ML
 
 [Attintion is all you need paper](https://arxiv.org/abs/1706.03762)
 
-[ByteByteGo youtube channel](https://www.youtube.com/@ByteByteGo)
+[ByteByteGo (youtube channel)](https://www.youtube.com/@ByteByteGo)
 
-[Computerphile youtube channel](https://www.youtube.com/@Computerphile)
+[Computerphile (youtube channel)](https://www.youtube.com/@Computerphile)
 
