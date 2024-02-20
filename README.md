@@ -17,6 +17,8 @@ this repo will contain the good resources I used to learn SWE and ML
 
 [Pandas](https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS)
 
+[Grokking algorithms (book)](https://www.amazon.eg/-/en/Grokking-Algorithms-Illustrated-Programmers-Curious/dp/1617292230)
+
 ---
 ## Math <a name="math"></a>
 
@@ -50,6 +52,8 @@ this repo will contain the good resources I used to learn SWE and ML
 
 ---
 ## Database/Data engineering <a name="db"></a>
+
+[SQL for data analysis (udacity course)](https://www.udacity.com/course/sql-for-data-analysis--ud198?source=post_page-----20d9cb97e892--------------------------------)
 
 [Fundamentals of Data Engineering (book)](https://www.oreilly.com/library/view/fundamentals-of-data/9781098108298/)
 
