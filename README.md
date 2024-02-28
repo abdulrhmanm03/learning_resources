@@ -73,7 +73,7 @@ this repo will contain the good resources I used to learn SWE and ML
 
 [Attintion is all you need paper](https://arxiv.org/abs/1706.03762)
 
-[An introduction to Shader Art Coding(video)](https://www.youtube.com/watch?v=f4s1h2YETNY)
+[An introduction to Shader Art Coding (video)](https://www.youtube.com/watch?v=f4s1h2YETNY)
 
 [ByteByteGo (youtube channel)](https://www.youtube.com/@ByteByteGo)
 
