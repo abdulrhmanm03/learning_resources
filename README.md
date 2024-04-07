@@ -65,6 +65,8 @@ this repo will contain the resources I used to learn SWE and ML
 
 [Hussein Nasser (youtube channel)](https://www.youtube.com/@hnasr)
 
+[Big Data in Arabic (youtube channel)](https://www.youtube.com/@bigdata4756)
+
 ---
 ## fun Extra <a name="ex"></a>
 [NEURAL NETWORK IN MINECRAFT (video)](https://www.youtube.com/watch?v=7OdhtAiPfWY&t=428s)
