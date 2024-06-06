@@ -55,6 +55,8 @@ this repo will contain the resources I used to learn SWE and ML
 ---
 ## Database/Data engineering <a name="db"></a>
 
+[Advanced SQL](https://use-the-index-luke.com/)
+
 [SQL for data analysis (udacity course)](https://www.udacity.com/course/sql-for-data-analysis--ud198?source=post_page-----20d9cb97e892--------------------------------)
 
 [Fundamentals of Data Engineering (book)](https://www.oreilly.com/library/view/fundamentals-of-data/9781098108298/)
