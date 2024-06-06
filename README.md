@@ -72,7 +72,7 @@ this repo will contain the resources I used to learn SWE and ML
 [Big Data in Arabic (youtube channel)](https://www.youtube.com/@bigdata4756)
 
 ---
-## fun Extra <a name="ex"></a>
+## Fun extra <a name="ex"></a>
 [NEURAL NETWORK IN MINECRAFT (video)](https://www.youtube.com/watch?v=7OdhtAiPfWY&t=428s)
 
 [Change of Variables and the Jacobian (video)](https://www.youtube.com/watch?v=hhFzJvaY__U)
