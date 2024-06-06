@@ -21,6 +21,8 @@ this repo will contain the resources I used to learn SWE and ML
 
 [Grokking algorithms (book)](https://www.amazon.eg/-/en/Grokking-Algorithms-Illustrated-Programmers-Curious/dp/1617292230)
 
+[Django back end framework](https://www.dj4e.com/)
+
 ---
 ## Math <a name="math"></a>
 
