@@ -9,7 +9,8 @@ this repo will contain the resources I used to learn SWE and ML
 3. [APIs](#api)
 4. [Deep learning](#nn)
 5. [Database/Data engineering](#db)
-6. [fun Extra](#ex)
+6. [Microservices](#ms)
+7. [fun Extra](#ex)
 
 ---
 
@@ -70,6 +71,11 @@ this repo will contain the resources I used to learn SWE and ML
 [Hussein Nasser (youtube channel)](https://www.youtube.com/@hnasr)
 
 [Big Data in Arabic (youtube channel)](https://www.youtube.com/@bigdata4756)
+
+---
+## Microservices <a name="ms"></a>
+
+[Microservices with python (video)](https://www.youtube.com/watch?v=ZYAPH56ANC8&t=5833s)
 
 ---
 ## Fun extra <a name="ex"></a>
