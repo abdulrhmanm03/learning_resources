@@ -10,7 +10,8 @@ this repo will contain the resources I used to learn SWE and ML
 4. [Deep learning](#nn)
 5. [Database/Data engineering](#db)
 6. [Microservices](#ms)
-7. [fun Extra](#ex)
+7. [C](#c)
+8. [fun Extra](#ex)
 
 ---
 
@@ -78,7 +79,13 @@ this repo will contain the resources I used to learn SWE and ML
 [Microservices with python (video)](https://www.youtube.com/watch?v=ZYAPH56ANC8&t=5833s)
 
 ---
+## C <name="c"><?a>
+
+[Thte C programming language (book)](https://www.amazon.eg/-/en/C-Programming-Language/dp/0131103628)
+
+---
 ## Fun extra <a name="ex"></a>
+
 [NEURAL NETWORK IN MINECRAFT (video)](https://www.youtube.com/watch?v=7OdhtAiPfWY&t=428s)
 
 [Change of Variables and the Jacobian (video)](https://www.youtube.com/watch?v=hhFzJvaY__U)
