@@ -79,7 +79,7 @@ this repo will contain the resources I used to learn SWE and ML
 [Microservices with python (video)](https://www.youtube.com/watch?v=ZYAPH56ANC8&t=5833s)
 
 ---
-## C <name="c"><?a>
+## C <a name="c"><?a>
 
 [Thte C programming language (book)](https://www.amazon.eg/-/en/C-Programming-Language/dp/0131103628)
 
