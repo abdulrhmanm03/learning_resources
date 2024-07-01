@@ -11,7 +11,8 @@ this repo will contain the resources I used to learn SWE and ML
 5. [Database/Data engineering](#db)
 6. [Microservices](#ms)
 7. [C](#c)
-8. [fun Extra](#ex)
+8. [Web frontend](#fe)
+9. [fun Extra](#ex)
 
 ---
 
@@ -82,6 +83,11 @@ this repo will contain the resources I used to learn SWE and ML
 ## C <a name="c"></a>
 
 [Thte C programming language (book)](https://www.amazon.eg/-/en/C-Programming-Language/dp/0131103628)
+
+---
+## Web frontend <a name="fe"></a>
+
+[React (video)](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d)
 
 ---
 ## Fun extra <a name="ex"></a>
