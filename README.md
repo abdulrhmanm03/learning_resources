@@ -44,6 +44,8 @@ this repo will contain the resources I used to learn SWE and ML
 
 [Python API Development fastapi (video)](https://www.youtube.com/watch?v=0sOvCWFmrtA&t=1s)
 
+[FastAPI book](https://www.oreilly.com/library/view/fastapi/9781098135492/)
+
 ---
 ## Deep learning <a name="nn"></a>
 
@@ -83,6 +85,8 @@ this repo will contain the resources I used to learn SWE and ML
 ## C <a name="c"></a>
 
 [Thte C programming language (book)](https://www.amazon.eg/-/en/C-Programming-Language/dp/0131103628)
+
+[Pointers in C / C++ (video)](https://youtu.be/zuegQmMdy8M?si=ibzsmO87T-5lVX5y)
 
 ---
 ## Web frontend <a name="fe"></a>
