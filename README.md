@@ -1,5 +1,5 @@
 # learning_resources
-this repo will contain the resources I used to learn CS, SWE and ML
+This repo will contain the resources I used to learn CS, SWE and ML
 ---
 
 # Table of Contents
