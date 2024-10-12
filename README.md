@@ -108,3 +108,5 @@ This repo will contain the resources I used to learn CS, SWE and ML
 
 [Computerphile (youtube channel)](https://www.youtube.com/@Computerphile)
 
+.[Seven Languages in Seven Weeks(book)](https://www.amazon.com/Seven-Languages-Weeks-Programming-Programmers/dp/193435659X)
+
